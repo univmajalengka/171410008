@@ -7,13 +7,13 @@
 	<script type="text/javascript" src="js/bootstrap.js"></script>
 </head>
 <body>
-		<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+		<nav class="navbar navbar-default navabar-fixed-top" role="navigation">
 			<div class="navbar-header">
 				<a class="navbar-brand" href="#">Data Mutasi Siswa</a>
 			</div>
 			<div>
 				<ul class="nav navbar-nav">
-					<li><a href="?halaman=default">Home</a></li>
+					<li class="active"><a href="?halaman=default">Home</a></li>
 					<li><a href="?halaman=siswa">Siswa</a></li>
 					<li><a href="?halaman=pegawai">Pegawai</a></li>
 					<li><a href="?halaman=mutasi_masuk">Mutasi Masuk</a></li>
